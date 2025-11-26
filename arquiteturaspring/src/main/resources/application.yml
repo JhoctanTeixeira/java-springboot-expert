@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: arquitetura-spring
+  jpa:
+    show-sql: true
+  # Habilita a inicialização preguiçosa dos beans ou seja, somente quando forem necessários,
+  # por padrão todos os beans são inicializados na inicialização do contexto por que podem ser necessários em algum momento da aplicação.
+  # spring.main.lazy-initialization=true
+  main:
+    lazy-initialization: false
+
+app:
+  montadora:
+    motor-padrao: 120
+  config:
+    varivel: XYZ
+    valor1: 500

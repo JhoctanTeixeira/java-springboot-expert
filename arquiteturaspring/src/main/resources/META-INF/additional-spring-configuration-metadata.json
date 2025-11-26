@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.config.varivel",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.varivel'"
+  },
+  {
+    "name": "app.montadora.motor-padrao",
+    "type": "java.lang.String",
+    "description": "A description for 'app.montadora.motor-padrao'"
+  },
+  {
+    "name": "app.config.valor1",
+    "type": "java.lang.String",
+    "description": "A description for 'app.config.valor1'"
+  }
+]}
