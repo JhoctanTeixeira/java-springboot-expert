@@ -1,6 +1,6 @@
 spring:
   application:
-    name: arquitetura-spring
+    name: Arquitetura Spring
   jpa:
     show-sql: true
   # Habilita a inicialização preguiçosa dos beans ou seja, somente quando forem necessários,

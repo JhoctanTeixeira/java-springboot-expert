@@ -1,0 +1,8 @@
+{
+  "maven.terminal.favorites": [
+    {
+      "command": "clean install -DskiptTests",
+      "debug": false
+    }
+  ]
+}
